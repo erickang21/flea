@@ -4,3 +4,5 @@ permalink: /install/
 title: Install
 nav_order: 2
 ---
+# Installation
+Coming soon...
