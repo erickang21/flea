@@ -22,8 +22,8 @@ title: Flea
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Flea is a wonderful top notch build-automation software that was totally not designed for the sole purpose of Waterloo's CS136L
-baseurl: "/flea" # the subpath of your site, e.g. /blog
-url: "https://erickang21.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://flea.works" # the base hostname & protocol for your site, e.g. http://example.com
 favicon_ico: "/assets/images/favicon.ico"
 search_enabled: true
 
@@ -35,6 +35,7 @@ aux_links:
 color_scheme: dark
 
 # Build settings
+theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs@v0.3.2
 plugins:
   - jekyll-feed
